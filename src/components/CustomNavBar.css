@@ -1,0 +1,37 @@
+.navbar-custom{
+    background-color: white;
+    color: #fff;
+    padding: 10;
+}
+
+.navbar-custom .navbar-nav >li>a{
+    color: white;
+}
+
+.navbar-custom .navbar-brand{
+    color:black;
+    font-size: 32px;
+    margin-left:15px;
+}
+.navbar-custom .navbar-toggle{
+    border-color:white;
+}
+.navbar-custom .navbar-toggle .icon-bar{
+    background-color: white;
+}
+.navbar-custom .navbar-toggle:focus, .navbar-custom .navbar-toggle:hover{
+    background-color:blue;
+}
+.navbar-custom .navbar-nav>li>a:focus, .navbar-custom .navbar-nav>li>a:hover{
+    color :white;
+  font-size: 20px;
+
+}
+.li{
+    color: white;
+    text-align: center;
+    margin-left: 13px;
+}
+.justify-content-center{
+    text-align: center
+}
